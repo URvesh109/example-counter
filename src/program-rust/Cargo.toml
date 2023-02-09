@@ -14,7 +14,7 @@ no-entrypoint = []
 test-bpf = []
 
 [dependencies]
-borsh = "0.9.1"
+borsh = "0.10.1"
 borsh-derive = "0.9.1"
 solana-program = "1.9.5"
 thiserror = "1.0"
